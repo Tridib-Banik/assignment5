@@ -1,0 +1,14 @@
+#show-items img{
+    width: 200px;
+}
+#show-items{
+    display: grid;
+    grid-gap: 15px;
+    grid-template-columns: repeat(5,1fr);
+}
+#item-details img{
+    width: 200px;
+}
+.foodsDiv-style{
+    text-align: center;
+}
